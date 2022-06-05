@@ -1,0 +1,20 @@
+{
+    "width":500,
+    "height":500,
+    "name":"",
+    "background color":"#0ff",
+    "components":{
+        "BasicPlatformPlayer":"engine/components/BasicPlatformPlayer/comp.py",
+        "Rectangle":"engine/components/Rectangle/comp.py",
+        "BoxCollision":"engine/components/BoxCollision/comp.py",
+        "Rightbody":"engine/components/Rightbody/comp.py",
+        "Image":"engine/components/Image/comp.py",
+        "Camera":"engine/components/Camera/comp.py",
+        "Server":"engine/components/Server/comp.py",
+        "Client":"engine/components/Client/comp.py"
+    },
+    "version":"1.0",
+    "description":"",
+    "modules":[],
+    "start scene":"assets/scenes/Initial Scene"
+}
